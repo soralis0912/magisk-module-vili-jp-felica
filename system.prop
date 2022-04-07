@@ -1,0 +1,19 @@
+ro.product.model=2107113SR
+ro.product.name=vili_jp
+
+ro.product.system.model=missi system image for arm64
+ro.product.system.name=missi
+
+ro.product.vendor.model=2107113SR
+ro.product.vendor.name=vili_jp
+
+ro.product.product.model=2107113SR
+ro.product.product.name=vili_jp
+
+ro.product.odm.model=2107113SR
+ro.product.odm.name=vili_jp
+
+ro.product.system_ext.model=missi system image for arm64
+ro.product.system_ext.name=missi
+
+ro.vendor.se.type=eSE,HCE,UICC
