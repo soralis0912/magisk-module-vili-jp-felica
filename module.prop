@@ -1,7 +1,7 @@
 id=vili-jp-felica
 name=Patch for Xiaomi 11T Pro Japan
-version=v03
-versionCode=3
+version=v04
+versionCode=4
 author=soralis0912
 description=Xiaomi 11T Pro 日本版Felica有効化パッチ
 updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-vili-jp-felica/master/update.json

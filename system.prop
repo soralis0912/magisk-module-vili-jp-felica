@@ -16,4 +16,5 @@ ro.product.odm.name=vili_jp
 ro.product.system_ext.model=missi system image for arm64
 ro.product.system_ext.name=missi
 
-ro.vendor.se.type=eSE,HCE,UICC
+ro.vendor.se.type=eSE,HCE,UICC,UICC1,UICC2
+ro.miui.build.region=jp
