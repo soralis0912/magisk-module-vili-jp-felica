@@ -5,3 +5,6 @@
 * Update app versions
 * Update felica configs
 * change app locations
+
+### v5 - 2025/11/10
+* change app locations
